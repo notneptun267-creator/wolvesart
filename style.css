@@ -563,6 +563,9 @@ a {
   transform: rotate(0deg);
   color: var(--accent);
 }
+.footer-logo:hover span {
+  color: var(--text);
+}
 .footer a {
   transition: color 0.2s ease;
 }
